@@ -13,6 +13,10 @@
 
 ## 📌 Projects  
 
+### 🌐 **Full Stack Development (FSD) Projects**  
+- 📖 **Manga Reader**: A web platform for reading manga  
+- 🖥️ **CodeUpCraft**: An informative web platform 
+
 ### 🖥️ **Java Projects**  
 - 🎮 **Tic-Tac-Toe**: A classic two-player game  
 - 💱 **Currency Converter**: Converts between multiple currencies  
