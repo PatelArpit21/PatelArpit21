@@ -6,8 +6,8 @@
 🔹 Seeking an internship in backend development  
 
 ## 🛠️ Tech Stack  
-🔹 **Languages:** Python, Java, SQL, HTML, CSS, JavaScript
-🔹 **Databases:** MySQL,Postgresql
+🔹 **Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
+🔹 **Databases:** MySQL,Postgresql  
 🔹 **Tools & Libraries:** Pyplot, Numpy, Pandas, Git, Logic Gates (for binary calculations)  
 
 ## 📌 Projects  
