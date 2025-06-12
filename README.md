@@ -1,7 +1,7 @@
 - # Hi there! 👋 I'm Patel Arpit
 
 ## 🚀 About Me  
-🔹 Backend Developer | Python,Java & MySQL Enthusiast
+🔹 Backend Developer | Python,Java & MySQL Enthusiast  
 🔹 Passionate about building efficient and scalable applications    
 🔹 Seeking an internship in backend development  
 
